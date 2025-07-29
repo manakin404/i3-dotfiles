@@ -2,7 +2,7 @@
 Just a bunch of short i3 dotfiles I have on a spare computer
 
 # Screenshots
-![Demonstration](https://github.com/manakin404/i3-dotfiles/blob/e0b5682ed07c26d84e20aef88414e0ea60883638/demo/2025-07-29_13-40.png)
+![Demonstration](https://github.com/manakin404/i3-dotfiles/blob/09d2bc3c4a6b2f7fdf5f22c0e483733bf6f8e975/demo/2025-07-29_13-40.png)
 
 # Applications
 WM: i3
